@@ -1,2 +1,2 @@
 # open-in-new-tab-issues
-A configuration sharing repository for a Chrome extension named open-in-new-tab
+This repository is for sharing configurations for the "Open in New Window" Chrome extension. Find the code you need for specific websites in the issues, or contribute your own by submitting an issue. Please tag your issue with the website domain. For bugs and issues, please use a different repository.
